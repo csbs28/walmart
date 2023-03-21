@@ -1,0 +1,1 @@
+It contains string file
